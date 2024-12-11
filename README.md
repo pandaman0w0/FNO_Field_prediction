@@ -19,7 +19,12 @@ This work uses a Fourier Neural Operator  to predict the field intensity of a di
 
 #description of files
 
-This code is modified from FNO available here: https://github.com/AI-Complexity-Lab/cse598/tree/main/hw1
+This project is modified from FNO available here: https://github.com/AI-Complexity-Lab/cse598/tree/main/hw1
 The file test of FNO performs data visualization and model saving. 
 The model size/ layers etc. need to match between the two files. 
 The last section need to load experimental data and perform data linear interpolation. 
+
+
+#Results 
+This project is aimed to fast predict the field (Electric field component of the EM wave) based on the refractive index distribution of the input structure.
+![alt text](https://github.com/pandaman0w0/FNO_Field_prediction/blob/main/field_prediction.png)
