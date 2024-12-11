@@ -15,7 +15,8 @@ intensities among O(10^12) points. This greatly limits the study of
 light intensity distribution in photonic structures.
 This work uses a Fourier Neural Operator  to predict the field intensity of a dielectric particle inside a micro F-P cavity. 
 
-#description of files. 
+#description of files
+
 This code is modified from FNO available here: https://github.com/AI-Complexity-Lab/cse598/tree/main/hw1
 The file test of FNO performs data visualization and model saving. 
 The model size/ layers etc. need to match between the two files. 
