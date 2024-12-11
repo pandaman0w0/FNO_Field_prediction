@@ -14,7 +14,7 @@ with 1 nm mesh size on average, will need to compute the light
 intensities among O(10^12) points. This greatly limits the study of
 light intensity distribution in photonic structures.
 This work uses a Fourier Neural Operator  to predict the field intensity of a dielectric particle inside a micro F-P cavity. 
-![alt text]([http://url/to/img.png](https://github.com/pandaman0w0/FNO_Field_prediction/blob/main/readme_img1.png))
+![alt text](https://github.com/pandaman0w0/FNO_Field_prediction/blob/main/readme_img1.png)
 
 
 #description of files
